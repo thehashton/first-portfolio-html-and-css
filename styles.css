@@ -90,13 +90,16 @@ body {
 .intro__title {
     font-size: 44px;
     color: #333;
+    margin-top: 125px;
     margin-bottom: 0;
+    padding: 0 10px;
 }
 
 .intro__subtitle {
     font-size: 24px;
     font-weight: normal;
     color: #333;
+    padding: 0 20px;
 }
 
 .intro__highlight {

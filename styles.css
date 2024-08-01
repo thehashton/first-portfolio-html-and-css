@@ -61,6 +61,14 @@ body {
     opacity: 0.5;
 }
 
+.header__nav-item--github a {
+    font-size: 35px;
+}
+
+.header__nav-item--github a:hover {
+    opacity: 0.5;
+}
+
 .header__nav-link {
     text-decoration: none;
     color: black;
